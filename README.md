@@ -3,7 +3,7 @@ GitHub profile.
 -->
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Bhevendra </h1>
-<h3 align="center">A passionate Data Scientist   </h3>
+<h3 align="center">A passionate Data Engineer   </h3>
 
 <div align="center">
 You have finally discovered my Github profile, I was waiting for you! <br>
